@@ -34,7 +34,8 @@ The design specifications for the MechaCar suspension coils dictate that the var
 - The current manufacturing data meets the design specification of not exceeding 100 psi for Lot 1 and Lot 2.
 - Lot3 does not meet the design specification with a variance of 170 psi which exceeds the 100 threshold for this excercise.
 - The reason for the high variance in Lot3 is due to outliers (see plot below).
-![deliverable2_lotsummary_c](https://user-images.githubusercontent.com/36451701/127780490-e1745127-0e22-4027-aa28-e02b303df236.png)
+
+![outliers](https://user-images.githubusercontent.com/36451701/127780533-caed2e0f-4d56-4dc3-bba2-c5d95f778c8d.png)
 
 
 
