@@ -51,8 +51,9 @@ Deliverable 3 sample image
 - Assuming our significance level is 0.05, our p-value is above our significance level.  Therefore, we do not have enough sufficient evidence to reject the null hypothesis and state that the two means are statistically similar. 
 
 ### Lot1
+![deliverable3_lot1_sample](https://user-images.githubusercontent.com/36451701/127780607-5714b9ac-bfde-43f4-80b6-2825a6abd5d0.png)
 
-deliverable 3 lot1 sample image
+
 - The p-value for Lot1 is smaller than the 0.05 significance level.  Therefore, there is enough evidence to reject the null hypothesis and conclude there is a difference in Lot1 mean compared to the population mean. 
 
 ### Lot2
