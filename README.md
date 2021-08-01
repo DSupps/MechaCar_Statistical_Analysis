@@ -22,7 +22,7 @@
 
 ## Linear Regression to Predict MPG
 
-Deliverable image 1 goes here
+![deliverable1](https://user-images.githubusercontent.com/36451701/127780272-d3452b39-8b03-494b-b6da-593b47c1b247.png)
 
 - According the summary results, vehicle length, ground clearence, and interecept are statistically unlikely to provide randomn results of variance to the linear model. In other words, vehicle length and ground clearence have a significant impact on mpg.
 - The  p-value is much smaller then the significance level of 0.05. There is sufficient evidence that the slope of the linear model is not 0.
