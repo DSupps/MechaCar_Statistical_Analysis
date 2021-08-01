@@ -1,7 +1,9 @@
 # MechaCar_Statistical_Analysis
 
 ## Challenge Overview:
-*AutoRU's newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing teams progress.
+*AutoRU's newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing teams progress.*
+
+*AutosRUs’ upper management has called on the data analytics team to review the production data for insights that may help the manufacturing team.*
 
 ### Deliverables:
 - Deliverable 1: Linear Regression to Predict MPG
