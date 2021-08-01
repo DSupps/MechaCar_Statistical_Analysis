@@ -14,11 +14,11 @@
 
 ### Resources:
 - Data Sources:
-    - MechaCar MPG dataset
+    - [MechaCar MPG dataset](https://github.com/DSupps/MechaCar_Statistical_Analysis/blob/main/Resources/MechaCar_mpg.csv)
     - Suspension Coil dataset
     
 - Software:
-    - RStudio:
+    - RStudio: 3.6.2
 
 ## Challenge Results:
 
