@@ -50,20 +50,21 @@ The design specifications for the MechaCar suspension coils dictate that the var
 Deliverable 3 sample image
 - Assuming our significance level is 0.05, our p-value is above our significance level.  Therefore, we do not have enough sufficient evidence to reject the null hypothesis and state that the two means are statistically similar. 
 
-### Lot1
+### Lot1:
 ![deliverable3_lot1_sample](https://user-images.githubusercontent.com/36451701/127780607-5714b9ac-bfde-43f4-80b6-2825a6abd5d0.png)
 
 
 - The p-value for Lot1 is smaller than the 0.05 significance level.  Therefore, there is enough evidence to reject the null hypothesis and conclude there is a difference in Lot1 mean compared to the population mean. 
 
-### Lot2
+### Lot2:
+![deliverable3_lot2_sample](https://user-images.githubusercontent.com/36451701/127780629-7059c415-faa7-4dee-85c3-a0f82b8b99e5.png)
 
-deliverable 3 lot2 sample images
 - The p-value for Lot2 is smaller than the 0.05 significance level.  Therefore, there is enough evidence to reject the null hypothesis and conclude there is a difference in Lot1 mean compared to the population mean. 
 
-### Lot3
+### Lot3:
 
-deliverable 3 lot3 sample image
+![deliverable3_lot3_sample](https://user-images.githubusercontent.com/36451701/127780634-b4977699-aa9e-47cc-916e-917690161cee.png)
+
 - The p-value for Lot3 is larger than the 0.05 significance level.  Therefore, Lot3 is statistically similar to the population mean.
 
 
