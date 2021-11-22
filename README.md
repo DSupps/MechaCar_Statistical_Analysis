@@ -20,7 +20,7 @@
 - Software:
     - RStudio: 3.6.2
 
-## Challenge Results:
+## Project Results:
 
 ## Linear Regression to Predict MPG
 
