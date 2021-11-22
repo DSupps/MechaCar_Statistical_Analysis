@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-## Challenge Overview:
+## Project Overview:
 *AutoRU's newest prototype, the MechaCar, is suffering from production troubles that are blocking the manufacturing teams progress.*
 
 *The help fix the issues, AutosRUs’ upper management has called on the data analytics team to review the production data for insights that may help the manufacturing team.*
